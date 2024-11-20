@@ -1,4 +1,3 @@
-![Region vs  Discount Amount](https://github.com/user-attachments/assets/eae5786e-97cd-4d18-b26e-e9655a74f85d)# Online-Sale-Data---Mongodb
 
 ## Online Sales Data Analysis and Dashboard
 Project Description
