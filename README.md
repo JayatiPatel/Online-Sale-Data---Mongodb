@@ -296,7 +296,7 @@ Example: Beauty & Grooming is the top category.
 *   Target underperforming cities with localized promotions and outreach.
 *   Study the success factors of top cities and replicate strategies in weaker markets.
 
-##Over Conclusion
+## Over Conclusion
 
 The dashboard provides comprehensive insights into sales performance across regions, age demographics, categories, and cities. Here's a concise summary of key findings and actionable managerial implications:
 
