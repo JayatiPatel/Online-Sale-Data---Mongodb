@@ -6,10 +6,23 @@ This project involves analyzing online sales data to extract meaningful insights
 
 The analysis was performed using a Jupyter Notebook, and the visualizations were created in a comprehensive dashboard format.
 
-
-
 ## Data Link: https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa
 ## Dashbord Link: https://charts.mongodb.com/charts-project-0-elydsgn/public/dashboards/94356253-dd26-4942-8a25-5e2b9296b296
+
+![Sales Distribution by Region and Gender](https://github.com/user-attachments/assets/1f4419f8-9e98-46a0-a19a-634e1f590f9c)
+
+## 1. Sales Distribution by Region and Gender (Heatmap)
+
+>Insights:
+
+Regions with higher intensity indicate dominant sales contributions.
+Gender segmentation highlights purchasing trends by gender, helping identify targeted marketing opportunities.
+Example: If Region X shows higher male-driven sales, focus campaigns accordingly.
+
+>Managerial Implications:
+
+Use data to craft region-specific marketing strategies.
+Address gender-specific product needs to boost engagement in underperforming regions.
 
 
 ## Key Features
