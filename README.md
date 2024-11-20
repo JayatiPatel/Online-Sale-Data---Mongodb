@@ -12,7 +12,7 @@ The analysis was performed using a Jupyter Notebook, and the visualizations were
 
 ![Sales Distribution by Region and Gender](https://github.com/user-attachments/assets/1f4419f8-9e98-46a0-a19a-634e1f590f9c)
 
-## 1. Sales Distribution by Region and Gender (Heatmap)
+1. Sales Distribution by Region and Gender (Heatmap)
 
 >Insights:
 
