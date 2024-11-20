@@ -6,6 +6,9 @@ This project involves analyzing online sales data to extract meaningful insights
 
 The analysis was performed using a Jupyter Notebook, and the visualizations were created in a comprehensive dashboard format.
 
+## Data Link:
+## Dashbord Link: https://charts.mongodb.com/charts-project-0-elydsgn/public/dashboards/94356253-dd26-4942-8a25-5e2b9296b296
+
 
 ## Key Features
 Sales Data by Region and Month:
